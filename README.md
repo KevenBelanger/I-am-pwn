@@ -1,3 +1,4 @@
+★ I-am-pwn is a simple Winamp Anagram ★
 
 # Winamp
 
